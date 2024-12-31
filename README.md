@@ -32,8 +32,8 @@
 
 ## 🌟 Projects
 
-### 🔬 Chemistry Virtual Lab
-- A web application built with **Flask**, featuring simulations like the **Wheatstone Bridge**.
+### 🔬 Titration Calculator
+- A web application built with **Flask**.
 - Enhanced for responsive design and improved layout.
 
 ### 🎨 Speech-to-Image Generator
