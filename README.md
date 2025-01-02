@@ -85,6 +85,15 @@ I am open to collaborating on innovative projects that push the boundaries of te
 You can reach me via:
 - **Email**: rwitabratohanpal1@gmail.com
 - **Discord**: xghosto
+
+ ## 🎮 Snake Game
+
+Challenge yourself with the classic snake game!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</div>
+
 ## #30NitesOfCode:
 [Check out my progress!](https://www.codedex.io/@xGhOsT0/30-nites-of-code)  
 ![@xGhOsT0 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=xGhOsT0)
