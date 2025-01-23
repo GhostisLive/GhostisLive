@@ -52,10 +52,12 @@ Check out more projects [here](https://github.com/GhostisLive?tab=repositories).
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rwitabrato-hanpal-796401319/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rwitabrato_hanpal)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostisLive)
-[![Discord](https://img.shields.io/badge/Discord-xghosto-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/xghosto)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50">](https://www.linkedin.com/in/rwitabrato-hanpal-796401319/) LinkedIn: [Rwitabrato Hanpal](https://www.linkedin.com/in/rwitabrato-hanpal-796401319/)  
+[<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50">](https://instagram.com/rwitabrato_hanpal) Instagram: [@rwitabrato_hanpal](https://instagram.com/rwitabrato_hanpal)  
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50">](https://github.com/GhostisLive) GitHub: [GhostisLive](https://github.com/GhostisLive)  
+[<img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50">](https://discordapp.com/users/xghosto) Discord: [xghosto](https://discordapp.com/users/xghosto)
+
+
 
 
 ---
