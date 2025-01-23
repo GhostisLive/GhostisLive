@@ -18,23 +18,23 @@
 
 ---
 
-## 💻 Tech Stack
+### 🛠️ My Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,react,nextjs,redis,postgresql,mysql,esp32,arduino,platformio" alt="Tech Stack" />
 
----
 
 ## 🌟 Projects
 
-### 🔬 Titration Calculator
-- A web application built with **Flask**.
-- Enhanced for responsive design and improved layout.
+### 🔗 [Conference Management Website](https://github.com/IIFR-DEV-TEAM/Conference-Management.git)
+- A comprehensive web application developed using **Flask**.
+- Facilitates the organization and management of conferences, including:
+  - **User Registration**: Allows participants to create accounts and manage their profiles.
+  - **Abstract Submission**: Enables authors to submit their research abstracts for review.
+  - **Review Process**: Provides tools for reviewers to evaluate submissions and provide feedback.
+  - **Scheduling**: Assists in organizing conference schedules, sessions, and events.
+  - **Notifications**: Keeps users informed about important updates and deadlines.
+- Designed with a responsive layout to ensure seamless access across various devices.
+
 
 ### 🎨 Speech-to-Image Generator
 - [Speech-to-Image Generator](https://github.com/GhostisLive/Speech-to-Image-Generator): Converts spoken words into AI-generated images.
