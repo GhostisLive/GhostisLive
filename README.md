@@ -20,7 +20,7 @@
 
 ### 🛠️ My Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,react,nextjs,redis,postgresql,mysql,esp32,arduino,platformio" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,react,nextjs,redis,postgresql,mysql,esp32,arduino,platformio" alt="Tech Stack" />
 
 
 ## 🌟 Projects
