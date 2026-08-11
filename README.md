@@ -25,23 +25,19 @@
 
 ## 🌟 Projects
 
-### 🔗 [Conference Management Website](https://github.com/IIFR-DEV-TEAM/Conference-Management.git)
-- A comprehensive web application developed using **Flask**.
-- Facilitates the organization and management of conferences, including:
-  - **User Registration**: Allows participants to create accounts and manage their profiles.
-  - **Abstract Submission**: Enables authors to submit their research abstracts for review.
-  - **Review Process**: Provides tools for reviewers to evaluate submissions and provide feedback.
-  - **Scheduling**: Assists in organizing conference schedules, sessions, and events.
-  - **Notifications**: Keeps users informed about important updates and deadlines.
-- Designed with a responsive layout to ensure seamless access across various devices.
+### 🧠 [CogniHire](https://github.com/Code-0ne/CogniHire)
+- A **predictive talent intelligence engine** built for intelligent candidate discovery and ranking.
+- Implements a **multi-stage Three-Sieve Pipeline** for efficient candidate matching.
+- Uses **Sentence Transformers and FAISS** for semantic similarity and high-speed vector search.
+- Designed for **CPU-only execution** with strict runtime and memory constraints.
+- Includes a reproducible **Docker-based deployment** workflow.
 
-
-### 🎨 Speech-to-Image Generator
-- [Speech-to-Image Generator](https://github.com/GhostisLive/Speech-to-Image-Generator): Converts spoken words into AI-generated images.
-- Explores the intersection of voice input and visual creativity.
+### 🎨 [Speech-to-Image Generator](https://github.com/GhostisLive/Speech-to-Image-Generator)
+- Converts **spoken words into AI-generated images**.
+- Combines **speech recognition with generative AI** to transform voice prompts into visual content.
+- Explores the intersection of **voice interaction and AI-powered visual creativity**.
 
 Check out more projects [here](https://github.com/GhostisLive?tab=repositories).
-
 ---
 
 ## 🖼️ Featured Work
