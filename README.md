@@ -10,7 +10,7 @@
 
 - 🌐 I am part of the **Google Development Group-IEM**.
 
-- 🌱 I’m a 2nd-year B.Tech student in Computer Science and Engineering (IoT,CSBT) at **IEM Salt Lake**.
+- 🌱 I’m a 3rd-year B.Tech student in Computer Science and Engineering (IoT,CSBT) at **IEM Salt Lake**.
 - 🐍 I love working with **Python**, and it’s my favorite programming language.
 - 🎥 Skilled in **video editing** and passionate about **photography**.
 - 🔧 Currently diving into web development with **FastApi** and **Flask**.
